@@ -1,0 +1,1 @@
+My name is Pranav Rai and today i will convertt,   This text will be copied into output.txt using streams.
